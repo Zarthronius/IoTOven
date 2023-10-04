@@ -20,8 +20,6 @@ IoT Smart Oven prototype concept using Raspberry Pi 4
 - server.py
 - temp_screen_script.py
 
-==========================
-
 ##OPTIONAL
 --------
 
@@ -36,3 +34,6 @@ NOTE: THE FOLLOWING STEPS ONLY NEEDS TO BE COMPLETED ONCE
 3) Insert the following text: 
 sudo python <FilePath> &
 for every python file you wish to run on system startup.
+
+![image](https://github.com/Zarthronius/IoTOven/assets/27790294/16cfccf9-4c70-4efd-ac4c-4d8e543ddbe4)
+
