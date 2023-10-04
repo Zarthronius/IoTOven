@@ -20,7 +20,7 @@ IoT Smart Oven prototype concept using Raspberry Pi 4
 - server.py
 - temp_screen_script.py
 
-##OPTIONAL
+## OPTIONAL
 --------
 
 Have programs run automatically at system startup:
